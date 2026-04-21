@@ -30,4 +30,4 @@ Nesta fase, o foco foi a estruturação base do projeto e a navegação entre as
 
 ## 👩‍💻 Autora
 * **Louise Paccola Peccin**
-* Acadêmica de Engenharia de Computação - UTFPR-CP
+* Estudante de Engenharia de Computação - UTFPR-CP
