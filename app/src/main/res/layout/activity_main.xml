@@ -9,7 +9,7 @@
     android:id="@+id/textTitulo"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="BingeIt!"
+    android:text="BingeTrack"
     android:textColor="#6200EE"
     android:textSize="32sp"
     android:textStyle="bold"
