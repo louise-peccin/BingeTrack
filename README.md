@@ -1,6 +1,6 @@
 # 🎬 BingeTrack! - Organizador de Séries e Filmes
 
-O **BingeIt!** é um aplicativo Android desenvolvido para ajudar usuários a gerenciar suas maratonas cinematográficas. Com ele, você pode registrar filmes e séries assistidos e atribuir notas, mantendo um histórico pessoal e organizado das suas mídias favoritas.
+O **BingeTrack!** é um aplicativo Android desenvolvido para ajudar usuários a gerenciar suas maratonas cinematográficas. Com ele, você pode registrar filmes e séries assistidos e atribuir notas, mantendo um histórico pessoal e organizado das suas mídias favoritas.
 
 Este projeto faz parte da disciplina de **Desenvolvimento de Aplicativos Móveis** na **UTFPR - Campus Cornélio Procópio**.
 
